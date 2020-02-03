@@ -1,0 +1,14 @@
+{
+    "name": "studio-fonkel/wordpress-security-plugin",
+    "description": "A WordPress Must-Use plugin to improve security",
+    "type": "package",
+    "license": "GPL v3",
+    "authors": [
+        {
+            "name": "Daniel",
+            "email": "groendaniel@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
